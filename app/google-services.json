@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255683875736",
+    "project_id": "loginpulento",
+    "storage_bucket": "loginpulento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255683875736:android:f868ecfc030b8b09da51ed",
+        "android_client_info": {
+          "package_name": "com.example.loginpulento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2cTpilviDWZ674S2r9jcQpAPZNUUbRAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
